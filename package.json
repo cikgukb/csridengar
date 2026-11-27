@@ -2,7 +2,7 @@
   "name": "idengar",
   "version": "1.0.0",
   "private": true,
-  "description": "Laman web CSR I Dengar (Marhakim Group) — alat bantu pendengaran percuma untuk rakyat Malaysia.",
+  "description": "Laman web CSR I Dengar — alat bantu pendengaran percuma untuk rakyat Malaysia.",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",

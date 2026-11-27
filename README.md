@@ -1,4 +1,4 @@
-# I Dengar — Laman Web CSR (Marhakim Group)
+# I Dengar — Laman Web CSR
 
 Laman web program tanggungjawab sosial korporat **I Dengar**: alat bantu pendengaran percuma untuk warga emas, kanak-kanak, OKU dan keluarga B40 di Malaysia.
 
@@ -44,6 +44,6 @@ Kemudian:
 
 ## Perkara untuk dikemas kini
 
-- Nombor WhatsApp dan e-mel (`public/index.html`, cari `60123456789` dan `idengar@marhakim.com.my`).
+- Nombor WhatsApp/telefon (`public/index.html`, cari `60123456789`). Tambah e-mel hubungan di footer jika perlu.
 - Statistik hero (`data-count`) dan harga pakej tajaan.
 - Gambar dalam `public/assets/img/` boleh digantikan dengan foto sebenar program (kekalkan nama fail).
