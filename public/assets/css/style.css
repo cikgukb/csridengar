@@ -1,5 +1,5 @@
 /* ============================================================
-   I Dengar — Program CSR Marhakim Group
+   I Dengar — Program CSR
    ============================================================ */
 :root{
   --ungu:#7A5C85;
@@ -121,7 +121,6 @@ p{margin:0 0 1em}
 .strip{border-block:1px solid var(--garis);background:#fff}
 .strip__inner{display:flex;align-items:center;justify-content:center;gap:1.4rem;padding:1.2rem 0;flex-wrap:wrap;text-align:center}
 .strip__label{font-size:.9rem;color:var(--ink-600);font-weight:600;max-width:34rem}
-.strip__logo{height:44px;width:auto}
 
 /* ---------- Sections ---------- */
 .section{padding:clamp(4rem,8vw,7rem) 0}
@@ -257,7 +256,6 @@ textarea{resize:vertical}
 .footer__brand img:first-child{border-radius:12px;margin-bottom:.6rem}
 .footer__brand strong{display:block;color:#fff;font-size:1.3rem;margin-bottom:.4rem}
 .footer__brand p{font-size:.95rem}
-.footer__parent{margin-top:1.2rem;background:#fff;border-radius:14px;padding:.8rem 1rem;display:inline-flex;flex-direction:column;gap:.3rem;color:var(--ink-600);font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em}
 .footer__addr{font-size:.95rem;margin-top:.6rem}
 .footer__bottom{display:flex;justify-content:space-between;flex-wrap:wrap;gap:.6rem;border-top:1px solid rgba(255,255,255,.14);margin-top:3rem;padding-top:1.4rem;font-size:.85rem}
 
