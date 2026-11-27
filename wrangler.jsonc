@@ -3,7 +3,7 @@
   "name": "idengar",
   "main": "src/worker.js",
   "compatibility_date": "2025-10-01",
-  "account_id": "8d6b380bb3adbf6aa2e9042fddda0463",
+  "account_id": "9958b8f629284b0129b7194e7e454527",
   "assets": {
     "directory": "./public",
     "binding": "ASSETS",
@@ -11,7 +11,7 @@
     "run_worker_first": ["/api/*"]
   },
   "kv_namespaces": [
-    { "binding": "PERMOHONAN", "id": "cd4afc1710f5483db3e51d9951980a2d" }
+    { "binding": "PERMOHONAN", "id": "33cb8a3881fb4bce9b5b127e5270d368" }
   ],
   "observability": { "enabled": true }
 }
